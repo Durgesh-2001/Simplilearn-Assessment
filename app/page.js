@@ -11,7 +11,11 @@ export default function Page() {
   return (
     <>
       <Hero />
-      <RespondForm />
+      <section className="w-full bg-white py-8 md:py-10 lg:py-12">
+        <div className="max-w-[1440px] mx-auto px-4 md:px-12 lg:px-[104px]">
+          <RespondForm />
+        </div>
+      </section>
       <Story />
       <ExploreSection>
 </ExploreSection>

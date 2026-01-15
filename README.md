@@ -10,13 +10,11 @@ A pixel-perfect, fully responsive landing page for an executive roundtable event
 
 Build a landing page based on the provided Figma design with **100% design fidelity** while utilizing modern Next.js features, server-side logic, and AI-assisted development.
 
-**Figma Design:** [View Design](https://www.figma.com/)
-
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Deployed URL:** [Coming Soon / Your Vercel URL]
+🌐 **Deployed URL:** [https://simplilearn-assessment.vercel.app](https://simplilearn-assessment.vercel.app)
 
 ---
 
@@ -89,8 +87,8 @@ simplilearn-rsvp/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/simplilearn-rsvp.git
-cd simplilearn-rsvp
+git clone https://github.com/Durgesh-2001/Simplilearn-Assessment.git
+cd Simplilearn-Assessment
 
 # Install dependencies
 npm install
@@ -175,7 +173,7 @@ All generated code was reviewed, refined, and structured for production quality.
 
 > Screenshot of successful RSVP submission:
 
-![Airtable Screenshot](./public/airtable-work.png)
+![Airtable Screenshot](/airtable-work.png)
 
 ---
 
@@ -191,7 +189,7 @@ npm start
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/simplilearn-rsvp)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Durgesh-2001/Simplilearn-Assessment)
 
 1. Push to GitHub
 2. Import project in Vercel
@@ -226,10 +224,11 @@ This project was created as part of a technical assessment for Simplilearn.
 
 ## 👤 Author
 
-**Your Name**
+**Durgesh Jayashankar**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@Durgesh-2001](https://github.com/Durgesh-2001)
+- LinkedIn: [durgeshjay](https://www.linkedin.com/in/durgeshjay)
+- Instagram: [@durgesh_dxj](https://www.instagram.com/durgesh_dxj)
 
 ---
 
